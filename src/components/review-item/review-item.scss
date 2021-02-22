@@ -1,0 +1,30 @@
+.review-item {
+  padding-top: 20px;
+  padding-bottom: 50px;
+  border-bottom: 1px solid gray;
+  .reviewer {
+    font-size: 12px;
+    font-weight: 600;
+  }
+  .title {
+    font-weight: 600;
+    padding-top: 5px;
+    padding-bottom: 15px;
+  }
+  .description {
+    font-size: 14px;
+    padding-bottom: 20px;
+  }
+  .buy-link {
+    font-size: 14px;
+    padding-bottom: 20px;
+  }
+  .recommendation {
+    font-weight: 600;
+    font-size: 14px;
+    padding-bottom: 20px;
+  }
+  .product-image img {
+    max-height: 200px;
+  }
+}

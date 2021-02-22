@@ -8,7 +8,7 @@ export default function Header() {
 
   return (
     <div className="header">
-      <Link className="logo" to='/'>LOGO</Link>
+      <Link className="logo" to='/review-app'>LOGO</Link>
       <div className="header-options">
         <Link className="option" to="/reviews">REVIEWS</Link>
         <div class="dropdown">
