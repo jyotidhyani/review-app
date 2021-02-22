@@ -1,0 +1,19 @@
+.banner {
+  display: flex;
+
+  .banner-content {
+    flex: 1;
+    padding-top: 20px;
+    padding-left: 50px;
+    font-size: 70px;
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+
+  .banner-image {
+    flex: 1;
+    img {
+      max-width: 100%;
+    }
+  }
+}
