@@ -7,7 +7,7 @@ import './reviews.scss';
 const Reviews = ({ reviews }) => {
   return (
     <div className="reviews">
-      {reviews.map(review =>
+      {reviews.reverse().map(review =>
         <ReviewItem key={review.id} {...review} />
       )}
     </div>
