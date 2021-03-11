@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/review-app/static/css/main.ba13f991.chunk.css",
-    "main.js": "/review-app/static/js/main.86dcf803.chunk.js",
-    "main.js.map": "/review-app/static/js/main.86dcf803.chunk.js.map",
+    "main.css": "/review-app/static/css/main.f9e26ba1.chunk.css",
+    "main.js": "/review-app/static/js/main.a023c4ad.chunk.js",
+    "main.js.map": "/review-app/static/js/main.a023c4ad.chunk.js.map",
     "runtime-main.js": "/review-app/static/js/runtime-main.effc83ea.js",
     "runtime-main.js.map": "/review-app/static/js/runtime-main.effc83ea.js.map",
     "static/js/2.44ad43c8.chunk.js": "/review-app/static/js/2.44ad43c8.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.2100fa60.chunk.js": "/review-app/static/js/3.2100fa60.chunk.js",
     "static/js/3.2100fa60.chunk.js.map": "/review-app/static/js/3.2100fa60.chunk.js.map",
     "index.html": "/review-app/index.html",
-    "static/css/main.ba13f991.chunk.css.map": "/review-app/static/css/main.ba13f991.chunk.css.map",
+    "static/css/main.f9e26ba1.chunk.css.map": "/review-app/static/css/main.f9e26ba1.chunk.css.map",
     "static/js/2.44ad43c8.chunk.js.LICENSE.txt": "/review-app/static/js/2.44ad43c8.chunk.js.LICENSE.txt",
     "static/media/banner1.da9493a2.png": "/review-app/static/media/banner1.da9493a2.png",
     "static/media/user.f414aa60.png": "/review-app/static/media/user.f414aa60.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.effc83ea.js",
     "static/js/2.44ad43c8.chunk.js",
-    "static/css/main.ba13f991.chunk.css",
-    "static/js/main.86dcf803.chunk.js"
+    "static/css/main.f9e26ba1.chunk.css",
+    "static/js/main.a023c4ad.chunk.js"
   ]
 }
